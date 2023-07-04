@@ -17,7 +17,7 @@ a {
 
 .productos-header {
     position: absolute;
-    right: 39.5%;
+    right: 38%;
     top: 10.5%;
     
 }
@@ -91,7 +91,10 @@ a {
 
 }
 .producto-2{
-    width: 215px;
+    width: 168px;
+}
+.producto-3 {
+    width: 180px;
 }
 
 .productos_dos {
